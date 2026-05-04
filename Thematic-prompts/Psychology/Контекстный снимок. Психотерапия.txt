@@ -2,6 +2,7 @@
 
 Контекстный снимок. Психотерапия
 v.20260116-2300
+@todo
 
 @psychology
 @draft, @drafting
