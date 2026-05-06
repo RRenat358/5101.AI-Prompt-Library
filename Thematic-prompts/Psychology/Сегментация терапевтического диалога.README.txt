@@ -1,6 +1,6 @@
 [meta: ignore to ≡≡≡≡≡≡≡≡≡≡]
 
-for-source:         https://github.com/RRenat358/5101.AI-Prompt-Library\Thematic-prompts\Psychology\Сегментация терапевтического диалога.txt
+for-source:     https://github.com/RRenat358/5101.AI-Prompt-Library/Thematic-prompts/Psychology/Сегментация терапевтического диалога.txt
 source-title:   Сегментация терапевтического диалога
 source-version: 20260110-1200
 
