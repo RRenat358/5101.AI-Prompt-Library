@@ -3,7 +3,7 @@
 title:      Эксперт по поиску в интернете и промптам ИИ
 version:    20260506-1225
 
-tags:       [#role, #llm, #prompt,   #draft, #dev]
+tags:       [#role, #llm, #prompt,   #draft]
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡
 

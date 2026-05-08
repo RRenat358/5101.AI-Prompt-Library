@@ -3,7 +3,7 @@
 title:   Сисадмин Windows
 version: 20260506-1125
 
-tags: [#role, #windows, #draft, #dev]
+tags:       [#role, #draft]
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡
 
