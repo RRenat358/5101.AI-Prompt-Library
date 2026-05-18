@@ -69,7 +69,7 @@
 ============================================================
 ## Примеры
 
-```yaml
+```
 tags: [#prompt, #role, #psychology, #tested]
 tags: [#snippet, #formatting, #untested, #draft]
 tags: [#prompt, #code, #jailbreak, #draft]
