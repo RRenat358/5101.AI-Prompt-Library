@@ -47,7 +47,7 @@
 Статусы можно комбинировать, например `#untested, #draft`.
 
 
-==============================
+------------------------------
 ### 4. Дополнительные (опционально)
 Любые уточняющие теги, которые помогают при поиске.
 
@@ -70,11 +70,11 @@
 ## Примеры
 
 ```
-tags: [#prompt, #role, #psychology, #tested]
-tags: [#snippet, #formatting, #untested, #draft]
-tags: [#prompt, #code, #jailbreak, #draft]
-tags: [#prompt, #research, #ready]
-tags: [#snippet, #context]
+tags: #prompt, #role, #psychology, #tested
+tags: #snippet, #formatting, #untested, #draft
+tags: #prompt, #code, #jailbreak, #draft
+tags: #prompt, #research, #ready
+tags: #snippet, #context
 ```
 
 
