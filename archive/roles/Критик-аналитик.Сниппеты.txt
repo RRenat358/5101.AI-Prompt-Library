@@ -3,7 +3,7 @@
 title:       Критик-аналитик. Сниппеты
 version:     20260521-2300
 
-tags:        #prompt, #snippets,    #role, #critic,    #draft
+tags:        #prompt, #snippets,    #role, #critic,    #draft, #archived
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 //todo соединить эти роли в одну и сделать универсальной, типа "Критик аналитик"
