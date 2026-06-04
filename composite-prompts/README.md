@@ -78,6 +78,6 @@
 ## Связанные руководства
 - [README.md](../README.md) -- основной в репозитории, общая структура.
 - [AGENTS.md](../AGENTS.md) -- правила работы с репозиторием.
-- [role-prompt-guide.md](../guidelines/role-prompt-guide.md) -- как создавать роли и компетенции.
+- [role-prompt-guide.md](../archive/guidelines/role-prompt-guide.md) -- как создавать роли и компетенции.
 - [role-plugin-guide.md](../guidelines/role-plugin-guide.md) -- как создавать и использовать плагины.
 - [Плагин-дополнительных-инструкций.txt](snippets/Плагин-дополнительных-инструкций.txt) -- универсальная обёртка для подключения модулей.
