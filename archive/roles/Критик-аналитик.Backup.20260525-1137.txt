@@ -3,7 +3,7 @@
 title:       Критик-аналитик
 version:     20260525-1137
 
-tags:        #prompt,    #role, #critic,    #ready
+tags:        #prompt,    #role, #critic,    #ready, #archived
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ============================================================
