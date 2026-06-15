@@ -3,7 +3,7 @@
 title:       Критик-аналитик
 version:     20260611-1818
 
-tags:        #prompt,    #role, #critic,    #draft, #untested
+tags:        #role,    #critic,    #draft, #untested
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ============================================================
