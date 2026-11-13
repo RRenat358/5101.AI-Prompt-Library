@@ -51,14 +51,19 @@
 ## Структура
 
 ```
-archive/           # разобранное и устаревшее
-docs/              # справочные материалы
-guidelines/        # правила и гайды
-prompt-by-theme/   # тематические витрины
-prompt-composites/ # собранные сборки
-prompt-snippets/   # общие сборники нано-инструкций
-prompt-wrappers/   # контейнеры
-prompts/           # единичные сущности
+archive                   # разобранное и устаревшее
+docs                      # справочные материалы
+guidelines                # правила и гайды
+prompt-by-theme           # тематические витрины
+prompt-composites         # собранные сборки
+prompt-snippets           # общие сниппеты
+prompt-wrappers           # контейнеры
+prompts                   # единичные сущности
+  actions/
+  behaviors/
+  formats/
+  roles/
+  skills/
 ```
 
 
@@ -115,12 +120,12 @@ Composite (сборка).
 |                                                         |                                                          |
 |---------------------------------------------------------|----------------------------------------------------------|
 | [entity-taxonomy.md](guidelines/entity-taxonomy.md)     | Типы, правила размещения, именование. **Читать первым.** |
-| Форматы                                                 |                                                          |
+| **Форматы**                                             |                                                          |
 | [headers.md](guidelines/headers.md)                     | Система заголовков и структурных акцентов                |
 | [style.md](guidelines/style.md)                         | Стиль и оформление промтов                               |
 | [tagging-system.md](guidelines/tagging-system.md)       | Теги для сквозного поиска                                |
 | [visual-separators.md](guidelines/visual-separators.md) | Разделители и заготовки                                  |
-| Воркфлоу (основные)                                     |                                                          |
+| **Воркфлоу** (основные)                                 |                                                          |
 | [role-plugin.md](guidelines/role-plugin.md)             | Как добавлять поведение и формат в идущем диалоге        |
 | [stance-and-skills.md](guidelines/stance-and-skills.md) | Как собирать композиты с одной стойкой                   |
 |                                                         |                                                          |
