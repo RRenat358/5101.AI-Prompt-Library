@@ -119,5 +119,5 @@
 - типы сущностей, правила размещения — [entity-taxonomy.md](entity-taxonomy.md);
 - мета-блок — [meta-block.md](meta-block.md);
 - сборка композитов — [composite-assembly.md](composite-assembly.md);
-- динамическое добавление Behavior — [role-plugin.md](role-plugin.md);
+- динамическое добавление Behavior — [role-plugin.md](dynamic-additions.md);
 - концепция стоек и skills — [stance-and-skills.md](stance-and-skills.md).

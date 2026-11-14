@@ -41,7 +41,7 @@
 
 Нужно добавить поведение или знание в идущий диалог → `prompts/behaviors/`,
 `prompts/skills/`, `prompts/formats/` + обёртка из `prompt-wrappers/`.
-Инструкция — [guidelines/role-plugin.md](guidelines/role-plugin.md).
+Инструкция — [guidelines/role-plugin.md](guidelines/dynamic-additions.md).
 
 Нужно собрать сложный композит с сохранением стойки →
 [guidelines/stance-and-skills.md](guidelines/stance-and-skills.md).
@@ -108,7 +108,7 @@ Composite (сборка).
 
 - [guidelines/entity-taxonomy.md](guidelines/entity-taxonomy.md) — типы, правила размещения, именование. **Читать первым.**
 - [guidelines/headers.md](guidelines/headers.md) — шапки файлов.
-- [guidelines/role-plugin.md](guidelines/role-plugin.md) — как добавлять поведение и формат в идущем диалоге.
+- [guidelines/role-plugin.md](guidelines/dynamic-additions.md) — как добавлять поведение и формат в идущем диалоге.
 - [guidelines/stance-and-skills.md](guidelines/stance-and-skills.md) — как собирать композиты с одной стойкой.
 - [guidelines/style.md](guidelines/style.md) — стиль промтов.
 - [guidelines/tagging-system.md](guidelines/tagging-system.md) — теги для сквозного поиска.
@@ -126,7 +126,7 @@ Composite (сборка).
 | [tagging-system.md](guidelines/tagging-system.md)       | Теги для сквозного поиска                                |
 | [visual-separators.md](guidelines/visual-separators.md) | Разделители и заготовки                                  |
 | **Воркфлоу** (основные)                                 |                                                          |
-| [role-plugin.md](guidelines/role-plugin.md)             | Как добавлять поведение и формат в идущем диалоге        |
+| [role-plugin.md](guidelines/dynamic-additions.md)             | Как добавлять поведение и формат в идущем диалоге        |
 | [stance-and-skills.md](guidelines/stance-and-skills.md) | Как собирать композиты с одной стойкой                   |
 |                                                         |                                                          |
 | [AGENTS.md](AGENTS.md)                                  | Инструкции для AI-агентов                                |

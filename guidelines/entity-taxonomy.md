@@ -1,7 +1,7 @@
 # Таксономия сущностей промт-библиотеки
 
 Этот файл задаёт словарь и правила размещения. Он не заменяет гайды
-([role-plugin.md](role-plugin.md), [stance-and-skills.md](stance-and-skills.md)),
+([role-plugin.md](dynamic-additions.md), [stance-and-skills.md](stance-and-skills.md)),
 а служит их основанием.
 
 **Зачем это нужно.** Библиотека растёт, и без общего словаря начинается
@@ -278,7 +278,7 @@ Snippets — **не восьмая сущность**. Это контейнер
 ============================================================
 ## 10. Связь с гайдами
 
-- [role-plugin.md](role-plugin.md) — как добавлять Behavior/Format/Wrapper в
+- [role-plugin.md](dynamic-additions.md) — как добавлять Behavior/Format/Wrapper в
   идущем диалоге.
 - [stance-and-skills.md](stance-and-skills.md) — как собирать Composite с одной
   стойкой + Skill(s).

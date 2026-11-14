@@ -5,7 +5,7 @@
 > (что такое стойка, почему две стойки конфликтуют, knowledge vs practice) —
 > в [stance-and-skills.md](stance-and-skills.md). Таксономия и правила
 > размещения — в [entity-taxonomy.md](entity-taxonomy.md). Динамическое
-> добавление в идущий диалог — в [role-plugin.md](role-plugin.md).
+> добавление в идущий диалог — в [role-plugin.md](dynamic-additions.md).
 
 Composite — это файл-сборка, где все блоки заданы одновременно. Модель читает
 его как единое целое с самого начала. Никаких «сохраняя текущую роль и
@@ -233,6 +233,6 @@ Behavior используется и как add-on, и как самостоят
   именование. Читать первым.
 - [stance-and-skills.md](stance-and-skills.md) — почему: стойки, knowledge vs
   practice, конфликты, особые случаи.
-- [role-plugin.md](role-plugin.md) — как: динамическое добавление через обёртку.
+- [role-plugin.md](dynamic-additions.md) — как: динамическое добавление через обёртку.
 - [style.md](style.md) — оформление, мета-блоки.
 - [tagging-system.md](tagging-system.md) — теги.
