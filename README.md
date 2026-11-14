@@ -41,10 +41,10 @@
 
 Нужно добавить поведение или знание в идущий диалог → `prompts/behaviors/`,
 `prompts/skills/`, `prompts/formats/` + обёртка из `prompt-wrappers/`.
-Инструкция — [guidelines/role-plugin.md](guidelines/dynamic-additions.md).
+Инструкция — [dynamic-additions.md](guidelines/dynamic-additions.md).
 
 Нужно собрать сложный композит с сохранением стойки →
-[guidelines/stance-and-skills.md](guidelines/stance-and-skills.md).
+[stance-and-skills.md](guidelines/stance-and-skills.md).
 
 
 ============================================================
@@ -106,30 +106,30 @@ Composite (сборка).
 ============================================================
 ## Документация
 
-- [guidelines/entity-taxonomy.md](guidelines/entity-taxonomy.md) — типы, правила размещения, именование. **Читать первым.**
-- [guidelines/headers.md](guidelines/headers.md) — шапки файлов.
-- [guidelines/role-plugin.md](guidelines/dynamic-additions.md) — как добавлять поведение и формат в идущем диалоге.
-- [guidelines/stance-and-skills.md](guidelines/stance-and-skills.md) — как собирать композиты с одной стойкой.
-- [guidelines/style.md](guidelines/style.md) — стиль промтов.
-- [guidelines/tagging-system.md](guidelines/tagging-system.md) — теги для сквозного поиска.
-- [guidelines/visual-separators.md](guidelines/visual-separators.md) — разделители.
-- [AGENTS.md](AGENTS.md) — инструкции для AI-агентов.
-
-## Документация
-
 |                                                         |                                                          |
 |---------------------------------------------------------|----------------------------------------------------------|
 | [entity-taxonomy.md](guidelines/entity-taxonomy.md)     | Типы, правила размещения, именование. **Читать первым.** |
-| **Форматы**                                             |                                                          |
+| **Правила оформления**                                  |                                                          |
 | [headers.md](guidelines/headers.md)                     | Система заголовков и структурных акцентов                |
-| [style.md](guidelines/style.md)                         | Стиль и оформление промтов                               |
-| [tagging-system.md](guidelines/tagging-system.md)       | Теги для сквозного поиска                                |
+| [meta-block.md](guidelines/meta-block.md)               | Формат мета-блока: ключи, теги, примеры                  |
+| [style.md](guidelines/style.md)                         | Стиль, оформление, именование файлов                     |
+| [tagging-system.md](guidelines/tagging-system.md)       | Теги: группы, значения, правила                          |
 | [visual-separators.md](guidelines/visual-separators.md) | Разделители и заготовки                                  |
-| **Воркфлоу** (основные)                                 |                                                          |
-| [role-plugin.md](guidelines/dynamic-additions.md)             | Как добавлять поведение и формат в идущем диалоге        |
-| [stance-and-skills.md](guidelines/stance-and-skills.md) | Как собирать композиты с одной стойкой                   |
-|                                                         |                                                          |
+| **Воркфлоу**                                            |                                                          |
+| [composite-assembly.md](guidelines/composite-assembly.md) | Сборка Composite: порядок, версии, синхронизация       |
+| [dynamic-additions.md](guidelines/dynamic-additions.md) | Добавление Behavior в идущем диалоге                     |
+| [stance-and-skills.md](guidelines/stance-and-skills.md) | Концепция стоек и skills                                 |
 | [AGENTS.md](AGENTS.md)                                  | Инструкции для AI-агентов                                |
+| **Каталоги**                                            |                                                          |
+| [prompt-by-theme](prompt-by-theme/README.md)            | Тематические витрины                                     |
+| [prompt-composites](prompt-composites/README.md)        | Сборки                                                   |
+| [prompt-snippets](prompt-snippets/README.md)            | Общие сниппеты                                           |
+| [prompt-wrappers](prompt-wrappers/README.md)            | Обёртки                                                  |
+| [actions](prompts/actions/README.md)                    | Задачи (Action)                                          |
+| [behaviors](prompts/behaviors/README.md)                | Поведения (Behavior)                                     |
+| [formats](prompts/formats/README.md)                    | Форматы (Format)                                         |
+| [roles](prompts/roles/README.md)                        | Роли (Role)                                              |
+| [skills](prompts/skills/README.md)                      | Навыки (Skill)                                           |
 
 
 ============================================================  
