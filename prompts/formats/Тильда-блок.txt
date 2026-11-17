@@ -3,7 +3,7 @@
 title:       Тильда-блок + Текстовый блок вместо markdown
 version:     20260612-1929
 
-tags:        #snippets,   #ready, #archived
+tags:        #format,    #text, #blok,   #ready
 description: |
     Замена на тильды для основного блока, внутри — обычные обратные кавычки:
         Актуально для веб-интерфейсов общения с LLM.

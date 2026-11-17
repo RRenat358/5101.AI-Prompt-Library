@@ -3,7 +3,7 @@
 title:       Партиционирование данных ответа
 version:     20260105-1200
 
-tags:        #snippet, #formatting
+tags:        #snippet, #format,    #text, #llm,    #draft
 description: При большом объеме ответа, разбивает его на пронумерованные части.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

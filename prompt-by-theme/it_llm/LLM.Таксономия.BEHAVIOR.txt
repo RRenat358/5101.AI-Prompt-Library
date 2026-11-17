@@ -3,7 +3,7 @@
 title:       LLM. Таксономия промт-артефактов
 version:     20261117-1455
 
-tags:        #behavior    #llm    #ready
+tags:        #behavior,    #llm,    #ready
 description: Операционные правила типизации промт-артефактов для LLM-эксперта.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
