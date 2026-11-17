@@ -3,7 +3,7 @@
 title:       Плагин ролевых инструкций.
 version:     20260605-1657
 
-tags:        #snippet, #plugin, #role,    #ready
+tags:        #behavior,    llm,    #ready
 description: Обязательный форм-фактор для ролевых инструкций (persona).
 usage:       |
     Подключается отдельным блоком в композитных промтах вместе с ролью LLM-эксперт.
