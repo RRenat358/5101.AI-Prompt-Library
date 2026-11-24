@@ -123,7 +123,7 @@ LLM-эксперт.Ролевик.Критик.txt
 title:       <Role> + <Addon1> + <Addon2>
 version:     <самая поздняя из версий add-on>
 
-tags:        #composite, #role    #<тема>    #ready
+tags:        #composite, #role,    #<тема>,    #ready
 description: |
     Состав:
         1. <Role>.txt -- <версия>
