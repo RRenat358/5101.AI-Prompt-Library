@@ -63,7 +63,7 @@
    или чужой папке. Правила — [entity-taxonomy.md](../../guidelines/entity-taxonomy.md), §7.
 5. **Мета-блок** — [meta-block.md](../../guidelines/meta-block.md).
 
-Форм-фактор роли — [LLM.Ролевые-инструкции.BEHAVIOR.txt](../../prompt-by-theme/it_llm/LLM.Ролевые-инструкции.BEHAVIOR.txt).
+Форм-фактор роли — [LLM.Ролевые-инструкции.BEHAVIOR.txt](../../archive/prompt-by-theme/it_llm/LLM.Ролевые-инструкции.BEHAVIOR.txt).
 
 
 ============================================================
