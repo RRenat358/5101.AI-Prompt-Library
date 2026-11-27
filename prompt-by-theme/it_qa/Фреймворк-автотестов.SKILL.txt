@@ -37,7 +37,7 @@ description: |
 
 **Интеграции**
 - CI: Jenkins, GitLab CI, GitHub Actions.
-- Test management: Allure TestOps, TestRail (опционально).
+- Test management: Allure TestOps, TestRail.
 - Уведомления: Slack, email — по результатам.
 
 **Подводные камни**
